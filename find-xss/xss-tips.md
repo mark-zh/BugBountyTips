@@ -4,7 +4,7 @@
 
 ## 检测无效的链接
 
-![broken-link-checker](https://github.com/stevenvachon/broken-link-checker)
+[broken-link-checker](https://github.com/stevenvachon/broken-link-checker)
 
 ```
 blc -r --filter-level 2 https://github.com
@@ -17,7 +17,7 @@ js信息泄漏是老话题了，推荐Burp神器，设置HTTP history的过滤�
 
 ![](img/filter.png)
 
-![relative-url-extractor](https://github.com/jobertabma/relative-url-extractor)，shell利用小脚本
+[relative-url-extractor](https://github.com/jobertabma/relative-url-extractor)，shell利用小脚本
 
 ```
 for i in $(cat http-history.txt); do
