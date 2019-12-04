@@ -17,5 +17,5 @@
 - [Bypass WAF by Shortening IP Addresses](bypass/bypass-ip.md)
 
 ### 挖洞技巧
-- [挖洞经验 | 从失效的链接中挖掘存储xss，利用js拓展攻击面](find xss/xss-tips.md)
+- [从失效的链接中挖掘存储xss，利用js拓展攻击面](find-xss/xss-tips.md)
 
